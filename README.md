@@ -21,6 +21,9 @@ $ w3m www.duckduckgo.com
 ```
 
 
+PS: no ads. 
+
+
 
 
 
