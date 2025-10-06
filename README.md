@@ -11,7 +11,7 @@
 $ w3m www.google.com
 
 ```
-*Your browser is not support anymore.  To continue...... yada yada yada* <br>
+*Your browser is not supported anymore.  To continue...... yada yada yada* <br>
 
 *uck!!
 
